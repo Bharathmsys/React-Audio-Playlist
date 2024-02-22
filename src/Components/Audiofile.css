@@ -1,0 +1,27 @@
+.audio-container{
+    background-image: linear-gradient(rgb(26, 1, 1),rgb(1, 1, 83));
+    color: aliceblue;
+    width: 800px;
+    height: 40vh;
+}
+.audio-input{
+    margin: 20px;
+    width: auto;
+    font-size: 25px;
+    margin-left: 25%;
+    font-family: "Roboto";
+    border-radius: 8px;
+}
+.sub-container{
+    margin: 15px;
+}
+.audio-playing-button{
+    width: 250px;
+    height: 35px;
+    border-radius: 8px;
+}
+.title{
+    font-family: "Roboto";
+    padding: 10px;
+    font-weight: 700;
+}
